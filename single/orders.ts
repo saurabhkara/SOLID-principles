@@ -29,10 +29,4 @@ export class Orders {
         this.products = this.products.filter((item) => item.id !== id)
     }
 
-    paymentProcess() {
-        console.log('Processing payment...');
-        console.log('Payment processed successfully');
-        console.log('Added to accounting system');
-        console.log('Email sent');
-    }
 }
