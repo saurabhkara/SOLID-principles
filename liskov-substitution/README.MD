@@ -1,1 +1,1 @@
-## LisKov Substitution Principal
+## LisKov Substitution Principle
